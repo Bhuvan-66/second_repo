@@ -1,0 +1,3 @@
+successfully created
+ git init -- to initialze the git in second repo (hidden file)
+ 
